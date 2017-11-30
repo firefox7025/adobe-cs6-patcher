@@ -50,17 +50,17 @@ Under those circumstances, a reinstall will not be needed. Just run the patcher 
 
 ## Built With
 
-* [Rust 1.22.1 (05e2e1c41 2017-11-22)](http://www.dropwizard.io/1.0.2/docs/) - Language Used
+* [Rust 1.22.1 (05e2e1c41 2017-11-22)](https://www.rust-lang.org/en-US/) - Language Used
 * [Glob 0.2.11](https://github.com/rust-lang-nursery/glob) - Used for finding all the files that need patched
 * [blake 0.7](https://rometools.github.io/rome/) - Used for the hashing technology
 * [digest "0.7"]() - Used for converting file object to hash 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/recursiverighthook/adobe-cs6-patcher/graphs/contributors) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/recursiverighthook/adobe-cs6-patcher/tags). 
 
 ## Authors
 
