@@ -52,8 +52,8 @@ Under those circumstances, a reinstall will not be needed. Just run the patcher 
 
 * [Rust 1.22.1 (05e2e1c41 2017-11-22)](https://www.rust-lang.org/en-US/) - Language Used
 * [Glob 0.2.11](https://github.com/rust-lang-nursery/glob) - Used for finding all the files that need patched
-* [blake 0.7](https://rometools.github.io/rome/) - Used for the hashing technology
-* [digest "0.7"]() - Used for converting file object to hash 
+* [blake 0.7](https://blake2.net/) - Used for the hashing technology
+* [digest "0.7"](https://docs.rs/digest/0.7.2/digest/) - Used for converting file object to hash 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/recursiverighthook/adobe-cs6-patcher/graphs/contributors) for details on our code of conduct, and the process for submitting pull requests to us.
